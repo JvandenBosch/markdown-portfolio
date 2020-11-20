@@ -1,1 +1,1 @@
-The only thing I was taught was **SPSS**, I have tried a bit of **mathlab**, mostly learned **R** and I am starting with **python**.
+first I only knew about **SPSS**, in the meantime I got to know **mathlab**, **python** but mostly **R**.
