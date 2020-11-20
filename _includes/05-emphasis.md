@@ -1,1 +1,1 @@
-first I only knew about **SPSS**, in the meantime I got to know **mathlab**, **python** but mostly **R**.
+....no computer to work on SPSS, mathlab, python or R here.
