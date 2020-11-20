@@ -1,5 +1,4 @@
-1. rowing on the river with colorfull sunset 
-2. ...or on a misty river with bright sunrise 
-3. ..or without boat in the river backwater
-   1. swimming and enjoying the sun
-   2. watching the (falling) stars during a bright August night
+1. at the ocean or river with colorfull sunset 
+   1. ...or on a misty river with bright sunrise 
+2. ..or surrounded by trees, swimming and enjoying the sun while sun is shining through
+3 watching stars during a clear summer night
